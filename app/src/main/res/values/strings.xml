@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">izy party staff</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login_page">login_page</string>
+    <string name="title_activity_edit_content">edit_content</string>
+    <string name="confirmation">Confirm</string>
+    <string name="No">No</string>
+
+</resources>
